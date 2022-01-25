@@ -4,7 +4,7 @@ package client
 import (
 	"io"
 
-	viapiutils20200401 "github.com/alibabacloud-go/Viapiutils-20200401/client"
+	viapiutils20200401 "github.com/alibabacloud-go/viapiutils-20200401/client"
 	oss "github.com/alibabacloud-go/tea-oss-sdk/client"
 	ossutil "github.com/alibabacloud-go/tea-oss-utils/service"
 	rpc "github.com/alibabacloud-go/tea-rpc/client"
