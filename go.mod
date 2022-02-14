@@ -1,4 +1,4 @@
-module github.com/alibabacloud-go/viapi-utils
+module github.com/medreams/alibabacloud-go-viapi-utils
 
 go 1.12
 
